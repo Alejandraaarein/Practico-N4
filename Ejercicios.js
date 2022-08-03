@@ -1,48 +1,45 @@
 function Obtener(obj) {
-    //Obtener y Recorrer las Llaves de un Objeto
-    //Aqui tu codigo
-    conso
+    const car= {
+        type= "fiat"
+        model="500"
+        color = "white"
 
 }
 
 function Fecha(num) {
-    //Escriba una función de JavaScript para obtener el día de una fecha en particular.
-    //Aqui tu codigo
+    prototype.getday= "0"
 
 }
 
-function verificarPassword(usuario, password) {
-    // Comprueba si la "password" enviada coincide con la propiedad "password" del objeto "usuario"
-    // Devuelve "true" si coinciden
-    // De lo contrario, devuelve "false"
-    // // Tu código:
-    console.log("Hola")
-    var a=40
+function verificarPassword(usuario, password) { 
+    num=false
+    for caract en contraseña
+    if carac.isdigtin== true;
+    num= true 
+    if not num:
+    print("la contraseña debe tener al menos un número")
+    if contraseña.count ("") >0:
+    print ("la contraseña no puede tener espacios en blanco")
+    else: print ("contraseña segura")
 
 }
+   function agregarMetodocalculodedescuento(producto) {
+       var= nuevoObjeto"producto"
+       producto.precio -> 80
+       producto.porcentajededescuento-> 0.5
+       producto.calcularpreciodedescuento()-> 80-(80*0.5)
 
 function crearGato(nombre, edad) {
-    // Crear un nuevo objeto con la propiedad "nombre" y el valor definido como el argumento "nombre".
-    // Agrega una propiedad al objeto con el nombre "edad" y usa el valor definido en el argumento "edad"
-    // Agrega un método (funcion) llamado "meow" que devuelva el string "Meow!"
-    // Devuelve el objeto
-    // Tu código:
+    var=nuevoObjeto
+    var nombre= "fernando"
+    var edad="28"
+    string  = "meow"
 
 }
-function agregarMetodoCalculoDescuento(producto) {
-    // Agregar un método (función) al objeto "producto" llamado "calcularPrecioDescuento"
-    // Este método debe multiplicar el "precio" del "producto" ("producto.precio" o "producto[precio]") y "porcentajeDeDescuento" para obtener el descuento
-    // El método resta el descuento del precio y devuelve el precio con descuento
-    // Devuelve el objeto "producto" al final de la función
-    // Ejemplo:
-    // producto.precio -> 20
-    // producto.porcentajeDeDescuento -> 0.2 (o simplemente ".2")
-    // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
-    // Tu código:
 
-}
+
+
 function ordenar(array) {
-    // A partir del array pasado por parametros, ordenarlo (ascendente o descendente) de la forma que tu quieras
-    // Mostrar array ordenado.
-    // Tu código:
-}
+  edades= [15,20,35,2,40,45,30,55]
+    var="edades.descendentes"
+    array [55,45,40,35,30,20,15.2]

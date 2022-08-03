@@ -3,21 +3,50 @@ Explica los siguientes conceptos con tus propias palabras.
 
 
 1 - ¿Que es Math?
-
+El método match() se usa para obtener expresion regular dentro de una cadena 
 2 - Explica 5 Metodos Math.
-
+push()- inserta un elemento al final del arreglo 
+unshift()- inserta un elemento al inicio del arreglo 
+pop()- remueve un elemento del final del arreglo
+shift()- remueve un elemento al principio del arreglo 
+slice()- crea una copia sombra del arreglo 
 3 - ¿Que es un String?
+Los string, o cadenas de caracteres, se utilizan para representar datos textuales. Esto quiere decir que es un conjunto de "elementos" 
+de valores enteros. Cada elemento que tiene la caddena ocupa una posición en la misma 
 
 4 - ¿Que es un booleano?
+Los booleanos son un tipo de dato primitivo  usado muchas veces en lenguajes de programacion. El booleano por definicion tiene dos posibles valores
+true(verdader) o false(falso)
 
 5 - ¿Que es una funcion?
+Una funcion en Javascript es muy parecida a un procedimeinto, esto quiere decir connjutno de instrucciones que realiza una tarea o calcula
+un valor, pero para que un procedimeitno califique como función, debe tomar alguna entrada y devolver una salida 
 
 6 - Explica la diferencia entre Undefined y Null
+Ambossirven para algo similar, indicar la ausencia de un valor. La diferencia reside en que undefined es un valor que denota que no hay
+valor porque no se ha definido, mientras Null indica que no hay un valor poruqe ya lo indicamos 
 
 7 - ¿Cuales son los operadores de Comparacion?
+Los operadores de comparacion se utilizan en los estados lógicospara determinar la igualdad o la diferencia entre variables o valores
+= igual a
+> mayor que 
+< menor 
+>= mayor o igual que 
+<=menor o igual que 
+<> diferente de 
+
 
 8 - ¿Cuales son los operadores Logicos?
+Los operadores lógicos se utilizan para determinar la lógica entre las variables o valores 
+&& devuelve verdadero cuando ambas condiciones son verdaderas
+and devuelve verdadero cuando ambas condiciones son verdaderas 
+devuelve verdadero cuando al menos una de las dos es verdadera 
+or devuelve verdadero cuando al menos una de los dos es verdadera 
+! niega el valor de la expresion 
 
 9 - ¿A que hace referencia la palabra Clave o Key?
+La clave key es el identificador. Las claves son unicas en un objeto, solo puede haber una clave de ese nombre, aunque varias claves 
 
 10 - ¿Para que sirve el Bucle for..in ?
+El bucle for s eutiliza para repetir una o más instrucciones en un determinado número de veces. De entre todos los bucles, el FOR se
+suele utilizar cuando sabemos seguro el número de veces que queremos que sea ejecutado 
